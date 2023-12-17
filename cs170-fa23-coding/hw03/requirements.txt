@@ -1,0 +1,5 @@
+numpy>=1.24.1
+matplotlib>=3.6.3
+tqdm>=4.64.1
+scipy>=1.10.0
+otter-grader==4.4.1
